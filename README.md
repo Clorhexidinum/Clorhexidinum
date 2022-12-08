@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <code><img width="5%" title="Browserstack" src="images/browserstack.svg"></code>
   <code><img width="5%" title="YATracker" src="images/ya_tracker.png"></code>
   <code><img width="5%" title="Android Studio" src="images/swagger.svg"></code>
-  <code><img width="5%" title="Postman" src="images/postman.png"></code>
+  <code><img width="5%" title="Postman" src="images/postman.svg"></code>
   <code><img width="5%" title="Telegram" src="images/telegram.svg"></code>
 </p>
 
