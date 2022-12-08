@@ -53,14 +53,14 @@ Here are some ideas to get you started:
   <code><img width="5%" title="JSON" src="images/json.svg"></code>
   <code><img width="5%" title="Gitlab" src="images/gitlab.svg"></code>
   <code><img width="5%" title="Jenkins" src="images/jenkins.svg"></code>
-  <code><img width="5%" title="Docker" src="images/docker.png"></code>
+  <code><img width="5%" title="Docker" src="images/docker.svg"></code>
   <code><img width="5%" title="Selenoid" src="images/selenoid.svg"></code>
   <code><img width="5%" title="Allure Report" src="images/allure.svg"></code>
   <code><img width="5%" title="Allure TestOps" src="images/testops.svg"></code>
-  <code><img width="5%" title="Appium" src="images/appium.png"></code>
-  <code><img width="5%" title="Browserstack" src="images/browserstack.png"></code>
+  <code><img width="5%" title="Appium" src="images/appium.svg"></code>
+  <code><img width="5%" title="Browserstack" src="images/browserstack.svg"></code>
   <code><img width="5%" title="YATracker" src="images/ya_tracker.png"></code>
-  <code><img width="5%" title="Android Studio" src="images/android_studio.png"></code>
+  <code><img width="5%" title="Android Studio" src="images/swagger.svg"></code>
   <code><img width="5%" title="Postman" src="images/postman.png"></code>
   <code><img width="5%" title="Telegram" src="images/telegram.svg"></code>
 </p>
