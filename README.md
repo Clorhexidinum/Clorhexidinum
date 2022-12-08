@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - I write autotests in Python
 - Contacts:
 - Email: mkubekov@gmail.com
-- Telegram: @Clorhexidinum
+- Telegram: <a href="https://t.me/Clorhexidinum">@Clorhexidinum</a>
 <!--
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
