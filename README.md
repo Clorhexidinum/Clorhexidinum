@@ -19,18 +19,19 @@ Here are some ideas to get you started:
 - I'm manual and automation Engineer from Moskow.
 - I've been working at QA since 2022.
 - I write autotests in Python
-- Email: 
 - Contacts:
-
+- Email: mkubekov@gmail.com
+- Telegram: @Clorhexidinum
+<!--
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Telegram" title="Telegram" src="images/social_networks/tg.png"/></a>
+  <a href="https://t.me/Clorhexidinum"><img width="32px" alt="Telegram" title="Telegram" src="images/social_networks/tg.png"/></a>
   &#8287;
   <a href=""><img width="32px" alt="VK" title="Vk" src="images/social_networks/vk.png"/></a>
   &#8287;
-  <a href=""><img width="37px" alt="Write me Email" title="Gmail" src="images/social_networks/gmail.png"/></a>
+  <a href="mailto:email-to@gmail.com"><img width="37px" alt="Write me Email" title="Gmail" src="images/social_networks/gmail.png"/></a>
 </p>
-
+-->
 
   &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :man_student: Education
