@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - I've been working at QA since 2022.
 - I write autotests in Python
 - Contacts:
-- Email: mkubekov@gmail.com
-- Telegram: <a href="https://t.me/Clorhexidinum">@Clorhexidinum</a>
+  - Email: mkubekov@gmail.com
+  - Telegram: <a href="https://t.me/Clorhexidinum">@Clorhexidinum</a>
 <!--
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
