@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :man_student: Education
 <table width="100%" border='0'>
-   <tr><td width="30%" valign="bottom"><img src="images/ya.png"></td><td valign="middle">Инженер по тестированию <a target="_blank" href="https://practicum.yandex.ru/qa-engineer/">Яндекс Практикум</a>.</td></tr>
-   <tr><td width="30%" valign="bottom"><img src="images/qaguru.png"></td><td valign="middle">Курс инженеров по автоматизации тестирования на Python <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/ya.png" title="Яндекс Практикум"></td><td valign="middle">Инженер по тестированию <a target="_blank" href="https://practicum.yandex.ru/qa-engineer/">Яндекс Практикум</a>.</td></tr>
+   <tr><td width="30%" valign="bottom"><img src="images/qaguru.png" title="QA.Guru"></td><td valign="middle">Курс инженеров по автоматизации тестирования на Python <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   
