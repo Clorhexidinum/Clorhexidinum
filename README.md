@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## :technologist:About me
 - I'm manual and automation Engineer from Moskow.
-- I've been working at QA since 2022.
+- I've been working at QA since 2020.
 - I write autotests in Python
 - Contacts:
   - Email: mkubekov@gmail.com
